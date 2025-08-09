@@ -1,0 +1,8 @@
+Simple Rule-Based Chatbot (Python + Tkinter)
+
+This chatbot responds to:
+- "hello" → "Hi!"
+- "how are you" → "I'm fine, thanks!"
+- "bye" → "Goodbye!" and closes the app
+
+It uses a Tkinter GUI for user interaction.
